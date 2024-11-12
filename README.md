@@ -11,6 +11,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-- 🎓 I'm currently a PhD student in AI 
-- 🔭 I’m currently working on Unsupervised Learning, Federations, GNNs, Quantifying Randomness in ML Benchmarks 
+- 🎓 Dr. AI
+- 📎 OKKO Health
+- 🔭 ML Evaluations, Unsupervised Learning, Federations, GNNs, Role of Randomness
 - 📫 My contact info: willleeney.github.io
