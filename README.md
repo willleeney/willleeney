@@ -12,6 +12,6 @@ Here are some ideas to get you started:
 -->
 
 - 🎓 Dr. AI
-- 📎 OKKO Health
-- 🔭 ML Evaluations, Unsupervised Learning, Federations, GNNs, Role of Randomness
-- 📫 My contact info: willleeney.github.io
+- 📎 StackOne AI Research Engineer 
+- 🔭 Finetuning LLMs 
+- 📫 willleeney.com
